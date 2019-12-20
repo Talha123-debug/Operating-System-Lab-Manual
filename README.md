@@ -1,8 +1,3 @@
-# Operating-System-Lab-Manual
-
-
-
-
 
   
 
@@ -18,7 +13,7 @@ Lab Manual
 
 
 Student Name:  Muhammad Talha Butt	
-Student Id:        022-16-113395	
+Student Id:        13395	
 	
 
 
